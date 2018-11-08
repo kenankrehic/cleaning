@@ -1,0 +1,31 @@
+
+	.top-linija{
+		width:900px;
+		height:20px;
+		background:linear-gradient(to right, #0099ff -2%, #99ccff 100%);
+		margin:0 auto;
+	}
+	.okvir-sadrzaj{
+		width:900px;
+		margin:0 auto;
+		text-align:center;
+		}
+	.sadrzaj{
+		width:900px;
+		text-align:center;
+		margin:0 auto;
+
+	}
+	a {
+		padding:50px 50px;
+		font-size:20px;
+
+	}
+
+	td {
+		max-width:300px;
+		
+	}
+
+
+
